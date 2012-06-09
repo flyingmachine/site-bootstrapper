@@ -5,5 +5,4 @@ gem 'capybara-webkit'
 gem 'mechanize'
 
 gem 'namecheap'
-
-
+gem 'thor'
