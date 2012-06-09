@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+
+require 'bundler/setup'
+require_relative 'lib/loader'
+
+# TODO:
+
+p "Site bootstrapper"
+
+# gather all plugin manifests
+# print a summary of all plugin options
+
+
+
